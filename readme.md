@@ -2,4 +2,4 @@
 
 - Libraries used
 
-# [Mineflayer][https://prismarinejs.github.io/mineflayer/#/api?id=bot]
+# [Mineflayer](https://prismarinejs.github.io/mineflayer/#/api?id=bot)
